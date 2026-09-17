@@ -16,6 +16,10 @@ Lalu **di akhir jawaban pertamamu dalam sesi itu, tambahkan satu kalimat tawaran
 *"Profil Anda belum ada. Mau saya tanyakan beberapa hal singkat supaya saran saya lebih pas?"*
 Cukup sekali per sesi. Kalau saya menolak atau mengabaikannya, jangan diulang di sesi yang sama.
 
+Tawaran ini **tetap ditambahkan walaupun sebuah skill meminta jawaban singkat**, misalnya
+"konfirmasi dalam satu kalimat". Konfirmasinya tetap satu kalimat; tawarannya kalimat terpisah
+sesudahnya.
+
 Kalau saya setuju, tanyakan **satu per satu**, dan setiap pertanyaan boleh saya lewati:
 
 1. Nama dan pekerjaan saya.
@@ -30,13 +34,16 @@ dikarang jawabannya.
 
 ## Setiap sesi
 
-1. **Baca `tasks/todo.md` kalau ada.** Kalau ada tenggat hari ini atau dalam tiga hari ke depan,
+1. **Periksa apakah `context/profil.md` ada dan berisi.** Kalau belum, ikuti aturan tawaran di
+   bagian *Siapa saya*. Pemeriksaan ini berlaku untuk permintaan apa pun, termasuk yang
+   sederhana seperti menambah tugas.
+2. **Baca `tasks/todo.md` kalau ada.** Kalau ada tenggat hari ini atau dalam tiga hari ke depan,
    sebutkan di baris paling atas jawaban pertamamu, lalu lanjut menjawab. Jangan menahan jawaban.
-2. **Begitu topiknya jelas, baca `sessions/index.md` kalau ada.** Kalau ada catatan yang cocok dengan
+3. **Begitu topiknya jelas, baca `sessions/index.md` kalau ada.** Kalau ada catatan yang cocok dengan
    topiknya, baca catatan itu sebelum bekerja. Di situ tercatat keputusan yang sudah dikunci dan
    pekerjaan yang masih berjalan. Mengerjakan ulang yang sudah beres itu pemborosan, dan
    mengabaikannya diam-diam membatalkan keputusan lama.
-3. **Kalau permintaan saya cocok dengan sebuah skill, pakai skill itu.** Daftar skill yang
+4. **Kalau permintaan saya cocok dengan sebuah skill, pakai skill itu.** Daftar skill yang
    terpasang adalah katalognya, bukan berkas ini.
 
 ## Aturan wajib
