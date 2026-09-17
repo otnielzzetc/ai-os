@@ -46,7 +46,9 @@ pun.** Mengirim adalah keputusan pengguna.
   atau "Semoga membantu".
 - Kalimat pendek. Satu gagasan per kalimat.
 - Jangan menumpuk kata sifat, dan jangan menulis tiga hal berurutan kalau dua sudah cukup.
-- Pakai emoji hanya kalau gaya pengguna memang memakainya.
+- **Emoji hanya kalau `context/profil.md` menyebut gaya pengguna memakainya.** Kalau profilnya
+  tidak ada atau tidak menyebut soal emoji, jangan pakai emoji sama sekali, termasuk 🙏 dan 😊.
+  Menambah emoji lebih mudah bagi pengguna daripada menghapusnya dari setiap draf.
 
 ## Pesan yang sensitif
 
