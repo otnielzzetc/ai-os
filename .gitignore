@@ -1,0 +1,29 @@
+# Data pribadi. Jangan pernah ikut ke git.
+# Folder-foldernya tetap ada di repo lewat README.md masing-masing,
+# tetapi isinya tinggal di komputer ini saja.
+context/*
+!context/README.md
+tasks/*
+!tasks/README.md
+projects/*
+!projects/README.md
+decisions/*
+!decisions/README.md
+sessions/*
+!sessions/README.md
+notes/*
+!notes/README.md
+
+# Rahasia dan pengaturan lokal. .mcp.json sering berisi token.
+.mcp.json
+.env
+.env.*
+.claude/settings.local.json
+
+# Keadaan layar Obsidian yang berubah terus
+.obsidian/workspace*.json
+.obsidian/cache
+
+# Sistem
+.DS_Store
+Thumbs.db
