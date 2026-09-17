@@ -35,7 +35,12 @@ Berkas data seperti daftar tugas dan profil **dibuat otomatis** saat pertama kal
 - *"tugas saya apa hari ini?"*
 - *"tambah tugas: bayar listrik tanggal 25"*
 - *"catat ini: ..."*: AI menentukan sendiri tempat penyimpanannya
-- *"rangkum sesi ini"*: dipakai sebelum menutup sesi, supaya sesi berikutnya bisa melanjutkan
+- *"minggu ini saya harus fokus ke mana?"*
+- *"tulisin pesan WA ke pelanggan, pesanannya telat sehari"*: AI hanya menyusun, tidak pernah mengirim
+- *"rangkum rapat ini"*, lalu tempel catatannya
+- *"rangkum sesi ini"* sebelum menutup sesi, lalu *"lanjut kemarin"* di sesi berikutnya
+- *"error nih"*, lalu tempel pesan errornya
+- *"jadikan skill"*, untuk pekerjaan yang sering diulang
 
 Untuk melihat semua kemampuan, tanyakan *"skill apa saja yang kamu punya?"*.
 
